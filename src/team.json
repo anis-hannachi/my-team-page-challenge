@@ -1,0 +1,54 @@
+{
+    "teams": [
+        {
+            "img": "./public/photo1.png",
+            "name": "Bill Mahoney",
+            "position": "product owner",
+            "classImage" : "image1",
+            "className" : "name1",
+            "classPosition" : "position1"
+        },
+        {
+            "img": "./public/photo2.png",
+            "name": "Saba Cabrera",
+            "position": "art director",
+            "classImage" : "image2",
+            "className" : "name2",
+            "classPosition" : "position2"
+        },
+        {
+            "img": "./public/photo3.png",
+            "name": "Shae Le",
+            "position": "teach lead",
+            "classImage" : "image3",
+            "className" : "name3",
+            "classPosition" : "position3"
+        }
+        ,
+        {
+            "img": "./public/photo4.png",
+            "name": "Skylah Lu",
+            "position": "ux designer",
+            "classImage" : "image4",
+            "className" : "name4",
+            "classPosition" : "position4"
+        },        
+        {
+            "img": "./public/photo5.png",
+            "name": "Griff Richards",
+            "position": "developer",
+            "classImage" : "image5",
+            "className" : "name5",
+            "classPosition" : "position5"
+        }
+        ,        
+        {
+            "img": "./public/photo6.png",
+            "name": "Stan Jhon",
+            "position": "developer",
+            "classImage" : "image6",
+            "className" : "name6",
+            "classPosition" : "position6"
+        }
+    ]
+}

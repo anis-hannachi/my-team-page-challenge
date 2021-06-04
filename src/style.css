@@ -1,0 +1,269 @@
+.images{
+    margin-bottom: 3%;
+}
+.header{
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 110px;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    color: #000000;
+}
+.head{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    /* line-height: 27px;     */
+    text-transform: uppercase;
+    color: #000000;
+    
+}
+.parag{
+    position: absolute;
+    width: 439px;
+    height: 87px;
+    left: 736px;
+    top: 147px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    
+    color: #000000;
+    
+}
+
+.image1{
+position: absolute;
+width: 240px;
+height: 430px;
+left: 240px;
+top: 244.5px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.name1{
+position: absolute;
+width: 117px;
+height: 27px;
+left: 240px;
+top: 686px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+}
+
+.position1{
+position: absolute;
+width: 102px;
+height: 16px;
+left: 450px;
+top: 330px;
+font-family: PT Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+text-transform: uppercase;
+color: #000000;
+transform: rotate(90deg);
+}
+.image2{
+position: absolute;
+width: 240px;
+height: 430px;
+left: 550px;
+top: 315px;
+}
+.name2{
+position: absolute;
+width: 128px;
+height: 27px;
+left: 550px;
+top: 750px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+}
+.position2{
+position: absolute;
+width: 85px;
+height: 16px;
+left: 772px;
+top: 429px;
+font-family: PT Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+text-transform: uppercase;
+color: #000000;
+transform: rotate(90deg);
+}
+.image3{
+    position: absolute;
+    width: 240px;
+height: 430px;
+    left: 863.54px;
+    top: 244.5px;
+    
+}
+.name3{
+    position: absolute;
+    width: 70px;
+    height: 27px;
+    left: 863.54px;
+    top: 686px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    
+}
+.position3{
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1105px;
+    top: 330px;
+    
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000; 
+    transform: rotate(90deg);
+}
+.image4{
+    position: absolute;
+    width: 240px;
+height: 430px;
+    left: 241px;
+    top: 760px;
+}
+.name4{
+    position: absolute;
+    width: 86px;
+    height: 27px;
+    left: 241px;
+    top: 1201px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    
+}
+.position4{
+    position: absolute;
+    width: 102px;
+height: 16px;
+left: 450px;
+    top: 845px;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;
+    transform: rotate(90deg);
+}
+.image5{
+    position: absolute;
+    width: 240px;
+height: 430px;
+    left: 550px;
+    top: 850px;
+}
+.name5{
+    position: absolute;
+    width: 124px;
+    height: 27px;
+    left: 550px;
+    top: 1290px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+    
+.position5 {
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 772px;
+    top: 944px;
+    font-family: PT Serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #000000;  
+    transform: rotate(90deg);
+}
+
+.image6{
+    position: absolute;
+    width: 240px;
+    height: 430px;
+left: 864.69px;
+top: 760px;
+}
+.name6{
+    position: absolute;
+width: 92px;
+height: 27px;
+left: 864.69px;
+top: 1201px;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+color: #000000;
+}
+.position6{
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1105px;
+top: 845px;
+font-family: PT Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 16px;
+text-transform: uppercase;
+color: #000000;
+transform: rotate(90deg);
+}
